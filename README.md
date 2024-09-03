@@ -9,7 +9,7 @@
 - **🌱 Always Learning:** Continuously exploring new technologies and methodologies to enhance my skills and contribute more effectively to collaborative projects.
 - **🌎 Bilingual Proficiency:** Advanced proficiency in English and native in Spanish, which allows me to effectively communicate and collaborate in diverse environments.
 - **📝 Contact:**
-  - **LinkedIn:** [Benjamín Esteban González Morales](https://www.linkedin.com/in/benjam%C3%ADn-esteban-gonz%C3%A1lez-morales)
+  - **LinkedIn:** [Benjamín Esteban González Morales](https://www.linkedin.com/in/benjamín-esteban-gonzález-morales-a25835314)
   - **Email:** benja314gonzalez@gmail.com, ben314g@proton.me
   - **Discord:** skellierg
 - **⚡ Personal Interests:** Software development on Linux, custom simulators, and contributing to open-source projects that promote education and accessibility.
