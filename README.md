@@ -12,4 +12,4 @@
   - **LinkedIn:** [Benjamín Esteban González Morales](https://www.linkedin.com/in/benjamín-esteban-gonzález-morales-a25835314)
   - **Email:** benja314gonzalez@gmail.com, ben314g@proton.me
   - **Discord:** skellierg
-- **⚡ Personal Interests:** Software development on Linux, custom simulators, and contributing to open-source projects that promote education and accessibility.
+- **⚡ Personal Interests:** Software development on Linux, hobby things, and contributing to open-source projects that promote education and accessibility.
